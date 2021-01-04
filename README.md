@@ -1,16 +1,10 @@
 # card_animated
 
-A new Flutter application.
+# Flutter UI
 
-## Getting Started
+Information on the Card Changes dynamically according to the values entered in the text fields.
 
-This project is a starting point for a Flutter application.
+![WhatsApp Image 2021-01-04 at 11 02 17 AM (1)](https://user-images.githubusercontent.com/42887995/103504941-e9c85c00-4e7e-11eb-8144-061185400166.jpeg)
+![WhatsApp Image 2021-01-04 at 11 02 17 AM](https://user-images.githubusercontent.com/42887995/103504946-eb921f80-4e7e-11eb-96c7-3861cf7e7e02.jpeg)
+![WhatsApp Image 2021-01-04 at 11 02 16 AM](https://user-images.githubusercontent.com/42887995/103504949-ed5be300-4e7e-11eb-9383-c20604dbf509.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
